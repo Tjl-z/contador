@@ -16,3 +16,8 @@
 h1 {
   margin: 0
 }
+
+.button {
+  display: flex;
+  gap: 5px;
+}
